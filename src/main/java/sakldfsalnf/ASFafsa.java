@@ -18,6 +18,7 @@ public class ASFafsa {public static void main(String[] args) {
                 max = c;
                 ilksayi=i;
                 ikincisayi=j;
+                System.out.println("asfkfbnakl");
             }
 
         }
